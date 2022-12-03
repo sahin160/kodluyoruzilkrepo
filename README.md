@@ -7,11 +7,13 @@
 projeyi clonladıktan sonra visual studio code programını açınız. 
 Linux için 
 ```csharp
-    public static void Log(string message)
-    {
-        cd kodluyoruzilkrepo code .;
-    }
+ 
+    
+        cd kodluyoruzilkrepo 
+        code .;
+    
     ```
+
 # Contributing
 Pull requestler kabul edilir.Büyük değişiklikler için,önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız 
 # License 
