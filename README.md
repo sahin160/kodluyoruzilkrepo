@@ -1,5 +1,6 @@
 # kodluyoruzilkrepo
  Bu repo Kodluyoruz Front-End Eğitiminde oluşturdugumuz ilk repo . içersinde bir adet README dosyası, bir adette index.html barındırıyor 
+!(https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/github.png)
 # Installation 
 öncelikle projeyi clonelayın. 
 [link](https://github.com/sahin160/kodluyoruzilkrepo.git)
