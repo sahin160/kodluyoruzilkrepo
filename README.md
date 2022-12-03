@@ -5,9 +5,9 @@
 [link](https://github.com/sahin160/kodluyoruzilkrepo.git)
 # Usage 
 projeyi clonladıktan sonra visual studio code programını açınız.
- 
+
 Linux için 
-``
+
  
     
         cd kodluyoruzilkrepo 
