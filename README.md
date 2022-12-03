@@ -10,9 +10,11 @@ Linux için
  
     
         cd kodluyoruzilkrepo 
-        code .;
+        code . ; 
+        
+        '''
     
-    ``` 
+    
 
 # Contributing
 Pull requestler kabul edilir.Büyük değişiklikler için,önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız 
