@@ -6,8 +6,8 @@
 # Usage 
 projeyi clonladıktan sonra visual studio code programını açınız. 
 Linux için 
-''' cd kodluyoruzilkrepo
-code .'''
+' cd kodluyoruzilkrepo
+code .'
 # Contributing
 Pull requestler kabul edilir.Büyük değişiklikler için,önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız 
 # License 
