@@ -4,7 +4,8 @@
 öncelikle projeyi clonelayın. 
 [link](https://github.com/sahin160/kodluyoruzilkrepo.git)
 # Usage 
-projeyi clonladıktan sonra visual studio code programını açınız. 
+projeyi clonladıktan sonra visual studio code programını açınız.
+ 
 Linux için 
 ``
  
@@ -14,7 +15,7 @@ Linux için
         
         
 # Contributing
-Pull requestler kabul edilir.Büyük değişiklikler için,önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız 
+Pull requestler kabul edilir.Büyük değişiklikler için,önce neyi değiştirmek istediğinizi tartışmak için bir konu acınız 
 
 # License 
 [MİT](https://choosealicense.com/licenses/mit/)
