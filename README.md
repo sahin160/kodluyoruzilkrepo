@@ -3,7 +3,7 @@
 !(https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 # Installation 
 öncelikle projeyi clonelayın. 
-[link](https://github.com/sahin160/kodluyoruzilkrepo.git)
+git clone (https://github.com/sahin160/kodluyoruzilkrepo.git)
 # Usage 
 projeyi clonladıktan sonra visual studio code programını açınız.
 
